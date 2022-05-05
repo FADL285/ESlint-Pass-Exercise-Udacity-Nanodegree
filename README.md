@@ -1,5 +1,5 @@
 # ESlint-Pass-Exercise-Udacity-Nanodegree
-ESlint Pass Exercise | Backend Development with Node.js Nanodegree from Udacity
+ESlint Pass Exercise | Full Stack JS NanoDegree from Udacity
 
 
 # Instructions
